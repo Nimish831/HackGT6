@@ -12,4 +12,4 @@ An Amazon Web Service "Elastic Compute Cloud" service, which is running a Flask 
 
 Future work involves overlaying these lyrics ontop of generated music, and playing that music over an Alexa.
 
-Contributing members: @bopas2 @gabriel-q-wang @thedragonlegacy
+Contributing members: @bopas2 @gabriel-q-wang @thedragonlegacy @Nimish831
